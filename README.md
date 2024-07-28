@@ -67,8 +67,9 @@ Before you proceed with the setup, ensure that you have the following prerequisi
 - [Python](https://www.python.org/)(version 3.7 or higher)
 - [pip](https://pip.pypa.io/en/stable/)
 - [Git](https://git-scm.com/)
-
-## Clone Farm_Health_FossHack Repository
+  
+## Steps to run the website
+### Clone Farm_Health_FossHack Repository
 1. Open your terminal or command prompt.
 2. Navigate to the directory where you want to clone this repository.
 3. Run the following command to clone the repository:
@@ -76,21 +77,6 @@ Before you proceed with the setup, ensure that you have the following prerequisi
 ```
 git clone https://github.com/Srijansarkar17/Farm_Health_FossHack.git
 ```
-To open the directory in your terminal where the repository is stored
-
-```
-cd "Location of the file"
-```
-Then head on to the api directory to access the main.py file
-```
-cd api
-```
-## Running the code on Fast API(Swagger UI)
-- Open your terminal or command prompt
-- Navigate to the directory where you cloned your repository
-- Run the following command to use Fast API
-
-```
-python -m uvicorn main:app --reload
-```
-Then you can head onto the index.html file under the frontend directory to run the html code
+- Then head on to the api directory to access the main.py file in VScode
+- After that run the main.py file
+- Then head onto the index.html file and open the live server
