@@ -40,11 +40,11 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
         <li><a href="#installation">Installation</a></li>
+         <li><a href="#dependencies">Dependencies</a></li>
       </ul>
     </li>
-    <li><a href="#problem-statement-and-your-solution">Problem statement</a></li>
+    <li><a href="#problem-statement">Problem statement</a></li>
     <li><a href="#key-features-">Key_Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -109,15 +109,25 @@ For example, this is how you would list them:
   matplotlib
   numpy
   ```
+## Video tutorial to run locally
+
+
+
+
+https://github.com/user-attachments/assets/6ed60b35-8f49-4dcb-afd4-41344385b5f6
 
 
 
 <!-- USAGE EXAMPLES -->
-## Problem Statement and Your solution
+## Problem Statement
 
 Farmers in india due to lack of knowledge and awareness about plant disesae did'nt know that from which disesae thier plant is suffering from and which lead them to the huge ecomonic loss and crop wastage , many websites are there to help them but these websites are only available on English language , but since majorty of the farmers only knows thier regional and local languages.This language issue create more complication to communicate with them and to help them using usefull technology.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+## Graph
+
+<img width="373" alt="graph" src="https://github.com/user-attachments/assets/362127fb-cde2-4efa-bb55-f24fe9580b2e">
+
+
 
 <!-- ROADMAP -->
 ## Key Features 🤖
@@ -166,9 +176,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- Authors -->
 ## Authors
 
-Nilesh Kanti - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Nilesh Kanti - [Linkedin](https://www.linkedin.com/in/nileshkanti/) 
+
 Aditya Pratap Singh - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 Srijan Sarkar - [Linkedin](https://www.linkedin.com/in/srijan-sarkar-90177b288/)
+
+Sai Ganeshan M - [Linkedin](https://www.linkedin.com/in/sai-ganeshan-manikandan-6a3aa5287/)
 
 
 
