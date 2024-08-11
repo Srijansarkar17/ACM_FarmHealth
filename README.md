@@ -91,12 +91,14 @@ For example, this is how you would list them:
   ```
 * Example of requirements.txt
   ```sh
-  tensorflow
-  opencv-python
-  mediapipe
+  tensorflow==2.5.0
+  fastapi
+  uvicorn
+  python-multipart
+  pillow
+  tensorflow-serving-api==2.5.0
+  matplotlib
   numpy
-  flask
-  jsonify
   ```
 
 ### Installation
