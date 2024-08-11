@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS">
+  <a href="https://github.com/Adityapratapsingh28/ACM_FARM_HEALTH-24">
     <img src="https://srmsigkddtesting.vercel.app/static/media/srmsigkdd.23f2521d9133f1a1056f.png" alt="Logo" width="150" height="150">
   </a>
 
   <p align="center">
-    Title of the project
+    ACM_FARM_HEALTH'24
     <br />
-    <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Adityapratapsingh28/ACM_FARM_HEALTH-24"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="Usage-Problem-Statement-and-Your-solution">View Demo</a>
