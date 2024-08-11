@@ -19,8 +19,7 @@
   </p>
 </p>
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) 
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)  
 ![Forks](https://img.shields.io/github/forks/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.svg)
 ![Issues](https://img.shields.io/github/issues/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.svg)
 ![PR](https://img.shields.io/github/issues-pr/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.svg)
@@ -46,7 +45,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#authors">Authors</a></li>
