@@ -44,7 +44,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage---problem-statement-and-your-solution">Usage</a></li>
+    <li><a href="#key-features-">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#authors">Authors</a></li>
@@ -119,9 +120,30 @@ Farmers in india due to lack of knowledge and awareness about plant disesae did'
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
-## Roadmap
+## Key Features 🤖
+- Plant disease prediction
 
-See the [open issues](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/issues) for a list of proposed features (and known issues).
+   - Our Deep learning model will take the image of plant from user and predict the disease from which thbe plant is suffering from.
+
+- Fertilizer analysis summarization
+
+   - NLP model using webscrapping and month on month sentimental analysis on amazon reviews of each year given by user and it will provide the summary of all the reviews so the farmer can get a idea that how is the product is that product is going to help him or not.
+ 
+- Multilingual website
+
+   - Our website is available on three languages right now that are hindi , english & tamil. This will provide ease of communication and readability to farmers.
+ 
+- Farmers laws/schemes
+
+   - Since many farmers are unaware about the farmer laws given by our goverment and schemes provided by the goverment to help farmers, so on our website we have provided the laws & schemes in a very easy simple language so the farmer can understand easily.
+ 
+- Website Interface: 
+
+  - User-friendly website interface for easy interaction and navigation.
+ 
+- Enhanced Model Training:
+
+  - Our deep learning model is trained and tested and the accuracy is 98% , while our summarization analysis model is also performing good.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -144,9 +166,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- Authors -->
 ## Authors
 
+Nilesh Kanti - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Aditya Pratap Singh - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Srijan Sarkar - [Linkedin](https://www.linkedin.com/in/srijan-sarkar-90177b288/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 <!-- ACKNOWLEDGEMENTS -->
