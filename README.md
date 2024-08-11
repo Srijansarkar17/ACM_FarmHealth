@@ -78,6 +78,14 @@ Farm_Heath is specially decined  platform for  farmers , it uses neural networks
 
 In this section you should provide instructions on how to use this repository to recreate your project locally.
 
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Adityapratapsingh28/ACM_FARM_HEALTH-24.git
+   ```
+
 ### Dependencies
 
 Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
@@ -101,23 +109,12 @@ For example, this is how you would list them:
   numpy
   ```
 
-### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.git
-   ```
-2. Setup (and activate) your environment
-  ```sh
-  your running etc
-  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage - Problem Statement and Your solution
 
-Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
-
-Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Farmers in india due to lack of knowledge and awareness about plant disesae did'nt know that from which disesae thier plant is suffering from and which lead them to the huge ecomonic loss and crop wastage , many websites are there to help them but these websites are only available on English language , but since majorty of the farmers only knows thier regional and local languages.This language issue create more complication to communicate with them and to help them using usefull technology.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -147,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- Authors -->
 ## Authors
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Aditya Pratap Singh - [Linkedin](https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
