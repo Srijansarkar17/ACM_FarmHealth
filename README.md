@@ -57,9 +57,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
+## Problem Statement 📚
+Farmers in india due to lack of knowledge and awareness about plant disesae did'nt know that from which disesae thier plant is suffering from and which lead them to the huge ecomonic loss and crop wastage , many websites are there to help them but these websites are only available on English language , but since majorty of the farmers only knows thier regional and local languages.This language issue create more complication to communicate with them and to help them using usefull technology.
 
-[Here goes the title with hyperlink](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS)
+## Our Solution :computer:
+Farm_Heath is specially decined  platform for  farmers , it uses neural networks to predict the disease of potato plant by just unploading the photo of leaf from your device, with the help of NLP it will also be providing insides on analysing the growth of fertiliser product  using sentimental analysis and summary of huge reviews in 5 lines . This website also be providing some useful farming laws and schemes given by our government which are available on regional languages such as hindi, english, & tamil .
 
 You can include tables or images to summarize your results when and if appropriate.
 
