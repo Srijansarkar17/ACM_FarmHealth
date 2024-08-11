@@ -44,8 +44,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage---problem-statement-and-your-solution">Usage</a></li>
-    <li><a href="#key-features-">Roadmap</a></li>
+    <li><a href="#problem-statement-and-your-solution">Problem statement</a></li>
+    <li><a href="#key-features-">Key_Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#authors">Authors</a></li>
@@ -113,7 +113,7 @@ For example, this is how you would list them:
 
 
 <!-- USAGE EXAMPLES -->
-## Usage - Problem Statement and Your solution
+## Problem Statement and Your solution
 
 Farmers in india due to lack of knowledge and awareness about plant disesae did'nt know that from which disesae thier plant is suffering from and which lead them to the huge ecomonic loss and crop wastage , many websites are there to help them but these websites are only available on English language , but since majorty of the farmers only knows thier regional and local languages.This language issue create more complication to communicate with them and to help them using usefull technology.
 
