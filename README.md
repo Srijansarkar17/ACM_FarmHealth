@@ -1,82 +1,161 @@
-# Farm_Health - Farming made easy :seedling:
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS">
+    <img src="https://srmsigkddtesting.vercel.app/static/media/srmsigkdd.23f2521d9133f1a1056f.png" alt="Logo" width="150" height="150">
+  </a>
 
-## Problem Statement 📚
-Farmers in india due to lack of knowledge and awareness about plant disesae did'nt know that from which disesae thier plant is suffering from and which lead them to the huge ecomonic loss and crop wastage , many websites are there to help them but these websites are only available on English language , but since majorty of the farmers only knows thier regional and local languages.This language issue create more complication to communicate with them and to help them using usefull technology.
+  <p align="center">
+    Title of the project
+    <br />
+    <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="Usage-Problem-Statement-and-Your-solution">View Demo</a>
+    ·
+    <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/issues">Request Feature</a>
+  </p>
+</p>
 
-## Our Solution :computer:
-Farm_Heath is specially decined  platform for  farmers , it uses neural networks to predict the disease of potato plant by just unploading the photo of leaf from your device, with the help of NLP it will also be providing insides on analysing the growth of fertiliser product  using sentimental analysis and summary of huge reviews in 5 lines . This website also be providing some useful farming laws and schemes given by our government which are available on regional languages such as hindi, english, & tamil .
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) 
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) 
+![Forks](https://img.shields.io/github/forks/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.svg)
+![Issues](https://img.shields.io/github/issues/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.svg)
+![PR](https://img.shields.io/github/issues-pr/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Views](https://views.whatilearened.today/views/github/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS)
 
-## Key Features 🤖
-- Plant disease prediction
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#dependencies">Dependencies</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-   - Our Deep learning model will take the image of plant from user and predict the disease from which thbe plant is suffering from.
 
-- Fertilizer analysis summarization
 
-   - NLP model using webscrapping and month on month sentimental analysis on amazon reviews of each year given by user and it will provide the summary of all the reviews so the farmer can get a idea that how is the product is that product is going to help him or not.
- 
-- Multilingual website
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-   - Our website is available on three languages right now that are hindi , english & tamil. This will provide ease of communication and readability to farmers.
- 
-- Farmers laws/schemes
+In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
 
-   - Since many farmers are unaware about the farmer laws given by our goverment and schemes provided by the goverment to help farmers, so on our website we have provided the laws & schemes in a very easy simple language so the farmer can understand easily.
- 
-- Website Interface: 
+[Here goes the title with hyperlink](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS)
 
-  - User-friendly website interface for easy interaction and navigation.
- 
-- Enhanced Model Training:
+You can include tables or images to summarize your results when and if appropriate.
 
-  - Our deep learning model is trained and tested and the accuracy is 98% , while our summarization analysis model is also performing good.
- 
-## Technology Used :bulb:
-### Deep learning :brain:
-- Data loading from kaggle
-- preprocessing and resize of images
-- Data Augmentation
-- Splitting of dataset
-- Trainig of model using CNN
+# Built With
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### Natural Language Processing :dart:
-- Web Scraping using beautiful soup & requests
-- Data cleaning using nltk and langid
-- Applying tfidef, textblob, nmf to get top 1000 reviews.(opensource)
-- summarization using falconsai/text_summarization(opensource)
+<!-- GETTING STARTED -->
+## Getting Started
 
- ### Web :magic_wand:
- - HTML CSS
- - Vanila js
- - FastAPI
+In this section you should provide instructions on how to use this repository to recreate your project locally.
 
-## Graph
+### Dependencies
 
-<img width="373" alt="graph" src="https://github.com/user-attachments/assets/362127fb-cde2-4efa-bb55-f24fe9580b2e">
+Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
 
-## Future Scope and Scalability & Contribution 🚀
-- include more dataset of different plants so the farmers can predict different plants disease.
-- add more languages such as bengali , marathi , bhojpuri , telegu , malayalam etc according to the location of the user.
-- add a weather warning system for farmers that will warn farmer a day before of heavy rainfall or bad weather to reduce loss.
-- add a chatbot which is available on difffernet languages to ease communication.
-- add more fertilizer reviews to the website which will help farmers to buy good fertilizer that will not harm their crops.
+> Make sure you make requirements.txt having all the dependencies required to run the code
 
-## Setup Instructions 🛠
-### Prerequisites
-Before you proceed with the setup, ensure that you have the following prerequisites installed on your system:
-- [Python](https://www.python.org/)(version 3.7 or higher)
-- [pip](https://pip.pypa.io/en/stable/)
-- [Git](https://git-scm.com/)
-  
-## Steps to run the website
-### Clone Farm_Health_FossHack Repository
-1. Open your terminal or command prompt.
-2. Navigate to the directory where you want to clone this repository.
-3. Run the following command to clone the repository:
+For example, this is how you would list them:
+* Installing all dependencies
+  ```sh
+  pip install -r requirements.txt
+  ```
+* Example of requirements.txt
+  ```sh
+  tensorflow
+  opencv-python
+  mediapipe
+  numpy
+  flask
+  jsonify
+  ```
 
-```
-git clone https://github.com/Srijansarkar17/Farm_Health_FossHack.git
-```
-- Then head on to the api directory to access the main.py file in VScode
-- After that run the main.py file
-- Then head onto the index.html file and open the live server
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.git
+   ```
+2. Setup (and activate) your environment
+  ```sh
+  your running etc
+  ```
+
+<!-- USAGE EXAMPLES -->
+## Usage - Problem Statement and Your solution
+
+Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
+
+Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/issues) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+<!-- Authors -->
+## Authors
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+You can acknowledge any individual, group, institution or service.
+* [SRM KTR SIGKDD Student Chapter](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)
+* [Exectra](https://github.com/)
